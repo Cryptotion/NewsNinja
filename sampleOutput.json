@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles":[  
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Venice Film Festival: Abortion drama wins top prize",
+        "description": "Audrey Diwan's Happening is set in 1960s France but comes amid debate over strict new laws in Texas.",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-58533531",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C802/production/_120520215_tv070542354.jpg",
+        "publishedAt": "2021-09-11 T22:37:23.4665933Z",
+        "content": "image captionThe winning film was directed by Audrey Diwan\r\nA film about illegal abortions in 1960s France has won the top prize at the Venice Film Festival.\r\nAudrey Diwan's Happening (L'Événement) i… [+1814 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "America stops to remember 9/11",
+        "description": "Commemorations have taken place on the 20th anniversary of the 11 September attacks.",
+        "url": "http://www.bbc.co.uk/news/world-58533107",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24A5/production/_120518390_p09vqwfh.jpg",
+        "publishedAt": "2021-09-11T19:52:22.0167574Z",
+        "content": "Commemorations have taken place on the 20th anniversary of the 11 September attacks.\r\nA minute's silence was held at the exact time each hijacked plane crashed.\r\nGeorge W Bush, who was the US preside… [+134 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Families recite names of loved ones lost to 9/11",
+        "description": "On the 20th anniversary of the 9/11 attack, New York City held moments of silence for the lost 2,977 lives.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-58529169",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13F07/production/_120517618_p09vqd4z.jpg",
+        "publishedAt": "2021-09-11T15:07:25.1057457Z",
+        "content": "On the 20th anniversary of the 9/11 attack, New York City held moments of silence for the lost 2,977 lives. A solemn bell tolled at 8:46 local time - when the hijacked Flight 11 hit the North Tower."
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "20 years on from 9/11 a trial like no other begins at Guantanamo Bay",
+        "description": "After two decades, the trial of 5 men accused of involvement in the 9/11 attacks finally begins",
+        "url": "http://www.bbc.co.uk/news/world-latin-america-58527700",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0D7B/production/_120515430_bigger.jpg",
+        "publishedAt": "2021-09-11T11:22:24.0369241Z",
+        "content": "By Aleem MaqboolBBC News\r\nimage source, Getty Images\r\nThis grim anniversary has meant renewed focus on the 5 suspects in detention accused of involvement in the 9/11 attacks.\r\nThe men, including Khal… [+6453 chars]"
+         }
+    ]
+    }

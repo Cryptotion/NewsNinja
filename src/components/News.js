@@ -63,7 +63,7 @@ const News = (props) => {
         <h1 className="text-center my-3" style={{paddingTop:"50px"}}>NewsNinja - Top {capitalizeFirstLetter(props.category)} Headlines</h1>
         {loading && <Spinner />}
         <InfiniteScroll
-          dataLength={articles.length}
+          // dataLength={articles.length}
           next={fetchMoreData}
           hasMore={articles.length !== totalResults}
           loader={<Spinner/>}
